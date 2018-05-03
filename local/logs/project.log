@@ -1,0 +1,54 @@
+2018-04-27T01:05:24.125Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-27T01:05:24.131Z - normal: checking language setting...
+2018-04-27T01:05:24.131Z - normal: Language: zh
+2018-04-27T01:05:26.367Z - success: protocol editor-framework registered
+2018-04-27T01:05:26.367Z - success: protocol app registered
+2018-04-27T01:05:26.368Z - success: protocol theme registered
+2018-04-27T01:05:26.368Z - success: protocol packages registered
+2018-04-27T01:05:26.368Z - success: protocol unpack registerred
+2018-04-27T01:05:26.368Z - success: protocol disable-commonjs registerred
+2018-04-27T01:05:26.826Z - normal: connected!
+2018-04-27T01:05:26.832Z - normal: Check project C:\Users\Lenovo\Desktop\complete_project
+2018-04-27T01:05:26.835Z - normal: Initializing Cocos2d
+2018-04-27T01:05:27.122Z - normal: Initializing Asset Database
+2018-04-27T01:05:27.183Z - success: protocol uuid registerred
+2018-04-27T01:05:27.183Z - success: protocol db registerred
+2018-04-27T01:05:27.183Z - success: protocol thumbnail registerred
+2018-04-27T01:05:27.184Z - normal: Loading editor/builtin packages
+2018-04-27T01:05:27.210Z - success: anysdk loaded
+2018-04-27T01:05:27.384Z - success: assets loaded
+2018-04-27T01:05:27.387Z - success: builder loaded
+2018-04-27T01:05:27.390Z - success: cocos-analytics loaded
+2018-04-27T01:05:27.394Z - success: console loaded
+2018-04-27T01:05:27.398Z - success: hierarchy loaded
+2018-04-27T01:05:27.401Z - success: inspector loaded
+2018-04-27T01:05:27.403Z - success: keystore loaded
+2018-04-27T01:05:27.406Z - success: node-library loaded
+2018-04-27T01:05:27.409Z - success: package-asset loaded
+2018-04-27T01:05:27.412Z - success: preferences loaded
+2018-04-27T01:05:27.414Z - success: project-exporter loaded
+2018-04-27T01:05:27.434Z - success: project-importer loaded
+2018-04-27T01:05:27.437Z - success: project-settings loaded
+2018-04-27T01:05:27.440Z - success: ui-kit loaded
+2018-04-27T01:05:27.442Z - success: ui-grid loaded
+2018-04-27T01:05:27.446Z - success: scene loaded
+2018-04-27T01:05:27.448Z - success: sprite-editor loaded
+2018-04-27T01:05:27.452Z - success: store loaded
+2018-04-27T01:05:27.458Z - success: timeline loaded
+2018-04-27T01:05:27.458Z - normal: Loading builtin packages
+2018-04-27T01:05:27.461Z - success: asset-db-debugger loaded
+2018-04-27T01:05:27.463Z - success: code-editor loaded
+2018-04-27T01:05:27.463Z - success: color-picker loaded
+2018-04-27T01:05:27.465Z - success: package-manager loaded
+2018-04-27T01:05:27.470Z - success: sdkbox loaded
+2018-04-27T01:05:27.475Z - success: tester loaded
+2018-04-27T01:05:27.477Z - success: ui-kit-preview-extra loaded
+2018-04-27T01:05:27.479Z - success: ui-kit-preview loaded
+2018-04-27T01:05:27.480Z - success: ui-tree loaded
+2018-04-27T01:05:29.096Z - normal: Initializing project C:\Users\Lenovo\Desktop\complete_project
+2018-04-27T01:05:29.103Z - normal: Loading packages
+2018-04-27T01:05:29.109Z - normal: Watching packages
+2018-04-27T01:05:29.125Z - normal: Run Application
+2018-04-27T01:05:29.961Z - success: preview server running at http://localhost:7456
+2018-04-27T01:05:35.759Z - normal: 1.8.2
+2018-04-27T01:18:59.254Z - info: shutdown preview server
